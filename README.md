@@ -9,4 +9,14 @@ Folgende Videos gibt es bzw. sind geplant:
 - [ ] Ichimoku-Chart erstellen
 - [ ] Kerzen-Chart erstellen
 
+Bevor ich zu allen Themen Videos mache implementiere ich sie im Code.
+Der Ordner ./project enthält alle Funktionalitäten, die früher oder später als Video erscheinen.
+
+Folgende Funktionen sind bereits implementiert bzw geplant:
+- [x] 200-Tage-Linie
+- [x] Korrelation berechnen
+- [x] Ichimoku-Chart erstellen
+
+
+
 Videowünsche gerne an youtube@marcel-software.com
